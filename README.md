@@ -1,4 +1,4 @@
-# Btc Price Info Bot
+# Bitcoin Price Info Bot
 
 Telegram Chat Bot that informs you every day about currebt Bitcoin price. Shows change in USD and %.
 
