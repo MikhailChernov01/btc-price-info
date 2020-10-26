@@ -2,8 +2,6 @@ var TelegramBot = require('node-telegram-bot-api');
 const fetch = require('node-fetch');
 require('dotenv').config();
 
-//var token = '1266620464:AAHsZCaZwenrf1zIOJnDYxhaE9L3a9EGI_w';
-
 //polling options
 var opt = { polling: true };
 
